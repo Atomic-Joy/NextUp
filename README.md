@@ -1,16 +1,53 @@
-# nextup
+# NextUp - A Simple To-Dos App
 
-A new Flutter project.
+![[NextUp - All.jpg]]
 
+## Features
+
+-  Add tasks
+-  Mark tasks as completed.
+-  Delete tasks you no longer need.
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Follow these instructions to get the project up and running on your local machine.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- Flutter SDK
+- Android/iOS Emulator or Physical Device
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Installation
+
+1. Clone the repository:
+
+```shell
+	git clone https://github.com/Atomic-Joy/NextUp.git
+```
+
+2. Navigate to the project directory:
+
+```shell
+	cd todo-app-flutter
+```
+
+3. Install the dependencies:
+
+```shell
+	flutter pub get
+```
+
+4. Run the app:
+
+```shell
+	flutter run
+```
+
+## Dependencies
+
+The app uses the following package
+
+```txt
+	google_fonts: ^4.0.0
+```
+
+Add these dependencies to your `pubspec.yaml` file before running the app.
