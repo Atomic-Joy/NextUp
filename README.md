@@ -1,6 +1,6 @@
 # NextUp - A Simple To-Dos App
 
-![[NextUp - All.jpg]]
+(https://github.com/Atomic-Joy/NextUp/blob/c58d5a062bb48dd7f5735dfee3e2033d468d3728/NextUp%20-%20All.jpg)
 
 ## Features
 
