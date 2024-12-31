@@ -28,7 +28,7 @@ git clone https://github.com/Atomic-Joy/NextUp.git
 2. Navigate to the project directory:
 
 ```shell
-cd todo-app-flutter
+cd nextup-main
 ```
 
 3. Install the dependencies:
