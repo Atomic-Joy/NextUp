@@ -7,6 +7,7 @@
 -  Add tasks
 -  Mark tasks as completed.
 -  Delete tasks you no longer need.
+
 ## Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
@@ -21,25 +22,25 @@ Follow these instructions to get the project up and running on your local machin
 1. Clone the repository:
 
 ```shell
-	git clone https://github.com/Atomic-Joy/NextUp.git
+git clone https://github.com/Atomic-Joy/NextUp.git
 ```
 
 2. Navigate to the project directory:
 
 ```shell
-	cd todo-app-flutter
+cd todo-app-flutter
 ```
 
 3. Install the dependencies:
 
 ```shell
-	flutter pub get
+flutter pub get
 ```
 
 4. Run the app:
 
 ```shell
-	flutter run
+flutter run
 ```
 
 ## Dependencies
@@ -47,7 +48,7 @@ Follow these instructions to get the project up and running on your local machin
 The app uses the following package
 
 ```txt
-	google_fonts: ^4.0.0
+google_fonts: ^4.0.0
 ```
 
 Add these dependencies to your `pubspec.yaml` file before running the app.
